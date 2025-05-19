@@ -1,2 +1,3 @@
-# first
-This is my first repository
+# First
+This is my first GIT repository.
+Author - Astha Khare
